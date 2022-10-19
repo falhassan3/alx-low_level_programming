@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry
+ * [stderr]: [Anything]
  * Return: Always 0
  */
 int main(void)
