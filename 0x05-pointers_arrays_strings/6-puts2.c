@@ -5,7 +5,9 @@
  * @str: input
  * return: print
  */
+
 void puts2(char *str)
+/** this is a puts2 function comment */
 {
 	int i = 0;
 
