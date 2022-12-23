@@ -35,4 +35,3 @@ _putchar('\n');
 }
 }
 }
-Footer
